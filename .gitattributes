@@ -2,3 +2,4 @@
 *.anim filter=lfs -crlf
 *.cs filter=lfs -crlf
 *.txt filter=lfs -crlf
+*.bin filter=lfs -crlf
