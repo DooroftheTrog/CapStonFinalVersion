@@ -1,0 +1,3 @@
+*.png filter=lfs -crlf
+*.anim filter=lfs -crlf
+*.cs filter=lfs -crlf
