@@ -3,3 +3,4 @@
 *.cs filter=lfs -crlf
 *.txt filter=lfs -crlf
 *.bin filter=lfs -crlf
+*.info filter=lfs -crlf
